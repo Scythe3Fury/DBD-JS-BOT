@@ -1,0 +1,20 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "Scythe",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^4.4.4",
+    "dbd": "0.0.2",
+    "dbd.js": "^3.0.7",
+    "ytdl-core": "^4.9.1"
+  }
+}
