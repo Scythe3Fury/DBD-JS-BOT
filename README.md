@@ -2,7 +2,7 @@
   🔗 SCYTHE 🚀
 </h1>
 
-![standard (14)](https://github.com/Scythe3Fury/DBD-JS-BOT/issues/1#issue-2580378324)
+![standard (1)](https://github.com/user-attachments/assets/2f80851b-5029-4c3a-8b75-846a6f593008)
 
 **NOTE:**
 # DBD-JS-BOT
