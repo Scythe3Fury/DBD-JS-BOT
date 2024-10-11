@@ -2,7 +2,7 @@ const Aoijs = require("aoi.js")
 
 const bot = new Aoijs.Bot({
 
-token: "ODUzMTE4NzEyNzM0MTU0ODIy.GnUqKZ.WxFndxE-0uccE-Uc1Dc2QqI-zn2YswKdGyfwDc", 
+token: "edit this(Bot Token)", 
 
 prefix: "$getServerVar[prefix]"
 
